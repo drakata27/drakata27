@@ -3,8 +3,8 @@ Hello 👋
 I am a Computer Science student and currently working as a Technology Intern
 
 I am:
--  🚀 interested in TypeScript, Java, React, Spring Boot, and AWS
--  ☁️ passionate about Web and Mobile Development
--  📍 based in London, UK
--  📘 always learning
+-  🚀 Interested in TypeScript, Java, React, Spring Boot, and AWS
+-  ☁️ Passionate about Web Development
+-  📍 Based in London, UK
+-  📃 Learn more about me 👉 https://www.aleksdraka.online/
 
